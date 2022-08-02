@@ -1,8 +1,11 @@
 import './App.css';
+import { Table } from './component/Table';
 
 function App() {
   return (
-    <div></div>
+    <div>
+    <Table />
+    </div>
   );
 }
 
